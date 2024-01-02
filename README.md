@@ -25,6 +25,9 @@ O software visa ser genérico, ou seja, as empresas poderão utiliza-lo de acord
 - Métricas -- custo do projeto (baseado no MER/ou/DER/ou/Diagrama de classe)
 - Proposta comercial
 
+## EAP
+O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso:
+https://drive.google.com/file/d/166SMfdwrCIAP24SClt-jvw5Hbm4Q7Reb/view?usp=sharing
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
