@@ -25,8 +25,13 @@ O software visa ser genérico, ou seja, as empresas poderão utiliza-lo de acord
 - Métricas -- custo do projeto (baseado no MER/ou/DER/ou/Diagrama de classe)
 - Proposta comercial
 
+## Missão, Visão e Valor
+Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será alterado de acordo com o levantamento de requisitos.
+
+
+
 ## EAP
-O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso:
+O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
 https://drive.google.com/file/d/166SMfdwrCIAP24SClt-jvw5Hbm4Q7Reb/view?usp=sharing
 
 ##  Documento final
