@@ -28,11 +28,17 @@ O software visa ser genérico, ou seja, as empresas poderão utiliza-lo de acord
 ## Missão, Visão e Valor
 Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será alterado de acordo com o levantamento de requisitos.
 
-
+## Documento com as perguntas e respostas para elicitação dos requisitos
+Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro.
 
 ## EAP
 O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
 https://drive.google.com/file/d/166SMfdwrCIAP24SClt-jvw5Hbm4Q7Reb/view?usp=sharing
+
+## Prototipação de telas (5)
+No dia 4 de janeiro começou a ser desenvokvido o nome do produto e o seu logo, além do slogan.
+Segue o link  do figma:
+https://www.figma.com/file/XoQeJd0CwJK6pRkmMPVaht/InvenAll?type=design&node-id=0%3A1&mode=design&t=SSckko8fEhFXy7Nv-1
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
