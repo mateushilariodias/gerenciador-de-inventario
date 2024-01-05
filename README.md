@@ -31,6 +31,9 @@ Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será
 ## Documento com as perguntas e respostas para elicitação dos requisitos
 Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro.
 
+## Matriz SWOT
+A SWOT começou a ser desenvolvida no dia 05 de janeiro.
+
 ## EAP
 O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
 https://drive.google.com/file/d/166SMfdwrCIAP24SClt-jvw5Hbm4Q7Reb/view?usp=sharing
