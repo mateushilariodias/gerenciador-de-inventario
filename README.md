@@ -32,7 +32,7 @@ Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será
 Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro.
 
 ## Matriz SWOT
-A SWOT começou a ser desenvolvida no dia 05 de janeiro.
+A SWOT começou a ser desenvolvida no dia 05 de janeiro, mas será alterado de acordo com o levantamento de requisitos. Por meio dela, foi necessário rever toda a estrutura do projeto para se iniciar novamente.
 
 ## EAP
 O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
