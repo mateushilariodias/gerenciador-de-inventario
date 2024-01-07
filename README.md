@@ -44,13 +44,9 @@ Segue o link  do figma:
 https://www.figma.com/file/XoQeJd0CwJK6pRkmMPVaht/InvenAll?type=design&node-id=0%3A1&mode=design&t=SSckko8fEhFXy7Nv-1
 
 ## Descrição do processo
-Primeiramente, a proposta do software era ser um inventário geneérico, onde qualquer empresa poderia utilizar fazaendo customizado de acordo com as suas necessodades e tipo de iventário desejado, porém, ao analisar como o banco de dados deveria ser feito para alcançar essa proposta, foi identificado uma alta complexidade tanto em seu desenvolvimento quanto na sua manutenção. Desse modo, foi decidido que o software visará atender aos requisitos de inventário patrimonial, mas que poderá ser utilizado por pessoa física e juridica.
-
-<!--
 Inicialmente, a concepção do software foi projetada para oferecer uma solução de inventário genérica, proporcionando flexibilidade para customização de acordo com as necessidades específicas de diversas empresas. No entanto, durante a análise do desenvolvimento do banco de dados, identificou-se uma complexidade substancial tanto na implementação quanto na manutenção do sistema.
 
-Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade. Essa escolha estratégica busca otimizar a eficiência e usabilidade do software, alinhando-se de maneira mais assertiva com as demandas do mercado e oferecendo uma solução robusta e adaptável para o gerenciamento de inventários.
--->
+Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade.
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
