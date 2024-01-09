@@ -34,6 +34,9 @@ Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeir
 ## Matriz SWOT
 A SWOT começou a ser desenvolvida no dia 05 de janeiro, mas será alterado de acordo com o levantamento de requisitos. Por meio dela, foi necessário rever toda a estrutura do projeto para se iniciar novamente.
 
+## Matriz 5W2H
+A 5W2H começou a ser responida no dia 08 de janeiro, com base na fraqueza apresentada na SWOT.
+
 ## EAP
 O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
 https://drive.google.com/file/d/166SMfdwrCIAP24SClt-jvw5Hbm4Q7Reb/view?usp=sharing
@@ -47,6 +50,10 @@ https://www.figma.com/file/XoQeJd0CwJK6pRkmMPVaht/InvenAll?type=design&node-id=0
 Inicialmente, a concepção do software foi projetada para oferecer uma solução de inventário genérica, proporcionando flexibilidade para customização de acordo com as necessidades específicas de diversas empresas. No entanto, durante a análise do desenvolvimento do banco de dados, identificou-se uma complexidade substancial tanto na implementação quanto na manutenção do sistema.
 
 Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade.
+
+<!--
+No dia 08 de janeiro, houve uma entrevista estruturada com a pessoa jurodica Cassiano Faria de Paula Leao, para saber como ele lida com a gestão do seu inventário patrimonial e também para entender mais sobre o mercado deste segmento, levantando requisitos para o desenvolvimento do software.
+-->
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
