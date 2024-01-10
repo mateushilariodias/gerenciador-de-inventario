@@ -29,13 +29,13 @@ O software visa ser genérico, ou seja, as empresas poderão utiliza-lo de acord
 Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será alterado de acordo com o levantamento de requisitos.
 
 ## Documento com as perguntas e respostas para elicitação dos requisitos
-Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro.
+Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro. Foi escolhido levantar requisitos com um atuante da área de contabilidade.
 
 ## Matriz SWOT
 A SWOT começou a ser desenvolvida no dia 05 de janeiro, mas será alterado de acordo com o levantamento de requisitos. Por meio dela, foi necessário rever toda a estrutura do projeto para se iniciar novamente.
 
 ## Matriz 5W2H
-A 5W2H começou a ser responida no dia 08 de janeiro, com base na fraqueza apresentada na SWOT.
+A 5W2H começou a ser responida no dia 08 de janeiro, com base na fraqueza apresentada na SWOT. A parte de cudtos foi deicada para quando as métricas ficarem prontas.
 
 ## EAP
 O link para o EAP, que foi desenvovido no draw.io no dia 02 de janeiro de 2024, por ser uma plataforma familiar e de facil uso, e no dia 03 de janeiro foram decididas as datas das entregas de conjunto de artefatos:
