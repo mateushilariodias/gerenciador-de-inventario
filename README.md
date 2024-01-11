@@ -1,7 +1,6 @@
 # gerenciador-de-inventario
 
 Este projeto tem como objetivo aprofundar os conhecimentos a respeito dos artefatos da engenharia de software em um caso real, trabalhando no desenvolvimento de um gerenciador de inventario de empresas de iniciativa privada.
-O software visa ser genérico, ou seja, as empresas poderão utiliza-lo de acordo com as suas necessidades e realidade, proporcionando um uso amplo do serviço.
 
 ## Artefatos a serem entregues
 
@@ -50,6 +49,8 @@ https://www.figma.com/file/XoQeJd0CwJK6pRkmMPVaht/InvenAll?type=design&node-id=0
 Inicialmente, a concepção do software foi projetada para oferecer uma solução de inventário genérica, proporcionando flexibilidade para customização de acordo com as necessidades específicas de diversas empresas. No entanto, durante a análise do desenvolvimento do banco de dados, identificou-se uma complexidade substancial tanto na implementação quanto na manutenção do sistema.
 
 Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade.
+
+Para conhecer mais sobre o segmento, foi assistido alguns viedos no YouTube, além de feitas algumas perguntas ao chatGPT.
 
 <!--
 No dia 08 de janeiro, houve uma entrevista estruturada com a pessoa jurodica Cassiano Faria de Paula Leao, para saber como ele lida com a gestão do seu inventário patrimonial e também para entender mais sobre o mercado deste segmento, levantando requisitos para o desenvolvimento do software.
