@@ -50,11 +50,7 @@ Inicialmente, a concepção do software foi projetada para oferecer uma soluçã
 
 Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade.
 
-Para conhecer mais sobre o segmento, foi assistido alguns viedos no YouTube, além de feitas algumas perguntas ao chatGPT.
-
-<!--
-No dia 08 de janeiro, houve uma entrevista estruturada com a pessoa jurodica Cassiano Faria de Paula Leao, para saber como ele lida com a gestão do seu inventário patrimonial e também para entender mais sobre o mercado deste segmento, levantando requisitos para o desenvolvimento do software.
--->
+Para conhecer mais sobre o segmento, foi assistido alguns viedos no YouTube, além de feitas algumas perguntas ao chatGPT. Além disso, foi feito uma entrevista estruturada com um contador, utilizando as perguntas da elicitação de requisitos para isso. 
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
