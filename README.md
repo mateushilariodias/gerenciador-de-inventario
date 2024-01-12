@@ -28,7 +28,7 @@ Este projeto tem como objetivo aprofundar os conhecimentos a respeito dos artefa
 Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será alterado de acordo com o levantamento de requisitos.
 
 ## Documento com as perguntas e respostas para elicitação dos requisitos
-Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro. Foi escolhido levantar requisitos com um atuante da área de contabilidade.
+Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro. Foi escolhido levantar requisitos com um gerente que lida com inventário patrimonial de empresa e um atuante da área de contabilidade.
 
 ## Matriz SWOT
 A SWOT começou a ser desenvolvida no dia 05 de janeiro, mas será alterado de acordo com o levantamento de requisitos. Por meio dela, foi necessário rever toda a estrutura do projeto para se iniciar novamente.
