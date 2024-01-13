@@ -28,7 +28,7 @@ Este projeto tem como objetivo aprofundar os conhecimentos a respeito dos artefa
 Foram escritas na visão do desenvolvedor, no dia primeiro de janeiro, mas será alterado de acordo com o levantamento de requisitos.
 
 ## Documento com as perguntas e respostas para elicitação dos requisitos
-Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro. Foi escolhido levantar requisitos com um gerente que lida com inventário patrimonial de empresa e um atuante da área de contabilidade.
+Algumas perguntas foran montadas no dia primeiro de janeiro e no dia 3 de janeiro. Foi escolhido levantar requisitos com um gerente que lida com inventário patrimonial da empresa onde trabalha e um atuante da área de contabilidade.
 
 ## Matriz SWOT
 A SWOT começou a ser desenvolvida no dia 05 de janeiro, mas será alterado de acordo com o levantamento de requisitos. Por meio dela, foi necessário rever toda a estrutura do projeto para se iniciar novamente.
@@ -50,7 +50,10 @@ Inicialmente, a concepção do software foi projetada para oferecer uma soluçã
 
 Diante desse cenário, foi tomada a decisão de direcionar o software para atender prioritariamente aos requisitos de inventário patrimonial. Essa abordagem visa simplificar o desenvolvimento e garantir uma manutenção eficiente do software. É importante ressaltar que, mesmo com essa especialização, o software permanecerá acessível e adaptável para uso tanto por pessoas físicas quanto jurídicas, mantendo uma ampla aplicabilidade e versatilidade.
 
-Para conhecer mais sobre o segmento, foi assistido alguns viedos no YouTube, além de feitas algumas perguntas ao chatGPT. Além disso, foi feito uma entrevista estruturada com um contador, utilizando as perguntas da elicitação de requisitos para isso. 
+Para conhecer mais sobre o segmento, foi assistido alguns viedos no YouTube, além de feitas algumas perguntas ao chatGPT. Além disso, foi feito duas entrevistas estruturadas, utilizando as perguntas da elicitação de requisitos para isso. 
+
+Após as matrizes SWOT e 5W2H feitas, começou a ser escrito o passo a passo para o uso do software/de como o sistema deverá funcionar, criando, assim, as suas funcionalidades, para logo em seguida, desenvolver o BPMN. 
+<!-- que servirá para montar o documento de requisitos funcionais e requisitos não funcionais. -->
 
 ##  Documento final
 A documentação final com todos os artefatos trabalhados neste projeto se encontram em um documento word:
