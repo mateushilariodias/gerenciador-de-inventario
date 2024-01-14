@@ -1,3 +1,5 @@
+O projeto foi pausado devido algumas circunstancias, mas voltará.
+
 # gerenciador-de-inventario
 
 Este projeto tem como objetivo aprofundar os conhecimentos a respeito dos artefatos da engenharia de software em um caso real, trabalhando no desenvolvimento de um gerenciador de inventario de empresas de iniciativa privada.
